@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Bash, Linux basics, log analysis, Git, and why a tiny script somehow grows into a full project.**
 
-- 📫 How to reach me **mo0nster@163.com**
+- 📫 How to reach me **reevebyte@163.com**
 
 - ⚡ Fun fact **My coding routine is: first make it run, then pretend it was all part of the plan.**
 
