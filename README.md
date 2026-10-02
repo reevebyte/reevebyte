@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact **My coding routine is: first make it run, then pretend it was all part of the plan.**
 
-- 👨‍💻 All of my projects are available at **[https://www.maptop.top/](https://www.maptop.top/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
